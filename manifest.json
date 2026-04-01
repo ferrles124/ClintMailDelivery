@@ -1,0 +1,16 @@
+{
+    "Name": "Clint Mail Delivery",
+    "Author": "ferrles124",
+    "Version": "1.0.0",
+    "Description": "Delivers upgraded tools to your mailbox instead of requiring you to pick them up from Clint.",
+    "UniqueID": "ferrles124.ClintMailDelivery",
+    "EntryDll": "ClintMailDelivery.dll",
+    "MinimumApiVersion": "4.1.0",
+    "Dependencies": [
+        {
+            "UniqueID": "DIGUS.MailFrameworkMod",
+            "IsRequired": true
+        }
+    ],
+    "UpdateKeys": []
+}
